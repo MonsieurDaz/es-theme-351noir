@@ -89,5 +89,8 @@ Sorry, they're crappy I know but there is currently no way to take screenshots w
 ###### [All the systems Epic Noir supports](https://github.com/c64-dev/es-theme-epicnoir#fully-supported-systems), plus:
 * Final Burn Neo
 * PSP Minis
+* MPlayer
+* Pico-8
+* Solarus
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
