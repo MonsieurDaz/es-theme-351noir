@@ -1,0 +1,26 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Solarus</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Solarus</text>
+    <fontSize>0.16</fontSize>
+    <origin>0 0</origin>
+    <pos>0.05 0.12</pos>
+    <size>0 0</size>
+  </text>    
+  <text name="shortdescription" extra="true">
+   <text>2006  ·  A-RPG Engine</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Solarus is the free and open source 2D Action-RPG engine that was used to create fangames like Zelda: Mystery of Solarus</text>
+  </text>
+ </view>
+</theme>
