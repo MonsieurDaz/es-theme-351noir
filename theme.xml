@@ -33,28 +33,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <size>0.07 0.07</size>
     </batteryIndicator>
 </view>
-
-<view name="menu">
-    <image name="background" extra="true">
-        <path>./_art/var/dot.png</path>
-    <menuText name="menutitle">
-         <fontPath>./_inc/fonts/Acre.otf</fontPath>
-         <fontSize>0.07</fontSize>
-         <color>FF0000</color>
-      </menuText>
-      <menuText name="menufooter">
-         <fontPath>./_inc/fonts/Acre.otf</fontPath>
-         <fontSize>0.0325</fontSize>
-      </menuText>
-      <menuText name="menutext">
-         <fontPath>./_inc/fonts/Acre.otf</fontPath>
-         <fontSize>0.04</fontSize>
-      </menuText>
-      <menuTextSmall name="menutextsmall">
-         <fontPath>./_inc/fonts/Acre.otf</fontPath>
-         <fontSize>0.03</fontSize>
-      </menuTextSmall>
-  </view>
 	
 <view name="system">
     <image name="background" extra="true">
