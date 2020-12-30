@@ -75,8 +75,6 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 
 ### Screenshots
 
-Sorry, they're crappy I know but there is currently no way to take screenshots within ES on the RG351.
-
 ![Sample01](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/001.jpg) \
 ![Sample02](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/002.jpg) \
 ![Sample03](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/003.jpg) \
