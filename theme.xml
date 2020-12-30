@@ -33,7 +33,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
       <size>0.07 0.07</size>
     </batteryIndicator>
 </view>
-	
+
 <view name="system">
     <image name="background" extra="true">
         <path>./_art/var/dot.png</path>
@@ -209,7 +209,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <pos>0.429 0.740</pos>
 	    <size>0.5 0.1111</size>
     </text>
-	
+    
 <!-- Place metadata --> 
 
     <rating name="md_rating" extra="true">
