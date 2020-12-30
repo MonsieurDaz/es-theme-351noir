@@ -80,7 +80,8 @@ Sorry, they're crappy I know but there is currently no way to take screenshots w
 ![Sample01](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/001.jpg) \
 ![Sample02](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/002.jpg) \
 ![Sample03](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/003.jpg) \
-![Sample04](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/004.jpg)
+![Sample04](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/004.jpg) \
+![Sample05](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/005.jpg)
 
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
