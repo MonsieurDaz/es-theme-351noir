@@ -34,6 +34,30 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </batteryIndicator>
 </view>
 
+<view name="menu">
+ <menuBackground name="menubg">
+    <color>12121299</color>
+	<cornerSize>32 32</cornerSize>
+    </menuBackground>
+	<menuText name="menutitle">
+	<fontPath>./_art/Acre.otf</fontPath>
+	<fontSize>0.06</fontSize>
+	<color>FF0000</color>
+	</menuText>
+	<menuText name="menutext">
+	<fontPath>./_art/BebasNeue.otf</fontPath>
+	<fontSize>0.05</fontSize>
+	<color>818181</color>
+	<selectorColor>FF0000</selectorColor>
+	<separatorColor>272727</separatorColor>
+	</menuText>
+	<menuText name="menufooter">
+	<fontPath>./_art/Acre.otf</fontPath>
+	<fontSize>0.03</fontSize>
+	<color>FF0000</color>
+	</menuText>
+</view>
+	
 <view name="system">
     <image name="background" extra="true">
         <path>./_art/var/dot.png</path>
