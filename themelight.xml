@@ -152,7 +152,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <image name="buttonA" extra="true">
-		<path>./_art/var/button.svg</path>
+		<path>./_art/var/buttonl.svg</path>
         <tile>false</tile>
         <origin>0 0</origin>
         <pos>0.05 0.58</pos>
