@@ -94,7 +94,8 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 * Final Burn Neo
 * PSP Minis
 * MPlayer
-* Pico-8
+* PICO-8
+* TIC-80
 * Solarus
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
