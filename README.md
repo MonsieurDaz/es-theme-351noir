@@ -1,4 +1,4 @@
-## 351 Noir 351ELEC Theme
+## 351Noir 351ELEC Theme
 
 This is a modern **horizontal** theme based on [Epic Noir](https://github.com/c64-dev/es-theme-epicnoir), that matches the 351ELEC black/white/red aesthetic and the RG351P handheld's resolution and aspect ratio.
 
@@ -41,7 +41,7 @@ By downloading and installing this theme it will be assumed that you own and pos
 
 ### Features
 
-* Dark and clean interface
+* Clean interface with dark and light modes (UI Settings --> Theme configuration --> Theme colorset)
 * 480x320 (3:2) wallpapers for all systems
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
@@ -79,7 +79,12 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample02](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/002.jpg) \
 ![Sample03](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/003.jpg) \
 ![Sample04](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/004.jpg) \
-![Sample05](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/005.jpg)
+![Sample05](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/005.jpg) \
+![Sample06](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/006.jpg) \
+![Sample07](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/007.jpg) \
+![Sample08](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/008.jpg) \
+![Sample09](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/009.jpg) \
+![Sample10](https://github.com/MonsieurDaz/es-theme-351noir/blob/master/_art/samples/010.jpg)
 
 
 ###### [back to top](https://github.com/MonsieurDaz/es-theme-351noir#351-noir-351elec-theme)
